@@ -1,4 +1,4 @@
-module Day2
+module Advent2019.Day2
 
     open Xunit
     open FsUnit.Xunit
